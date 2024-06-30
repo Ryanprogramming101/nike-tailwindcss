@@ -44,5 +44,9 @@ This project is an idea for Nike website, built using Tailwind CSS for styling. 
 
 ![image](https://github.com/Ryanprogramming101/nike-tailwindcss/assets/81804247/49a25859-c6bf-44fe-93a6-08f9781b77f0)
 
+**Mobile Responsive**
+
+![image](https://github.com/Ryanprogramming101/nike-tailwindcss/assets/81804247/669c09e1-5818-4adc-9e7b-d1704172b0e7)
+
 
 
