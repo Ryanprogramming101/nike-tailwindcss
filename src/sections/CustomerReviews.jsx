@@ -9,7 +9,7 @@ const CustomerReviews = () => {
 				<span className='text-coral-red'> Customers </span>
 				Say?
 			</h3>
-			<p className='text-info text-center mt-4 m-auto max-w-lg'>
+			<p className='text-info text-center mt-4 m-auto max-w-lg text-xl'>
 				Hear real feedbacks from our satisfied customers.
 			</p>
 			<div className='mt-24 flex flex-1 justify-evenly items-center max-lg:flex-col gap-14'>
